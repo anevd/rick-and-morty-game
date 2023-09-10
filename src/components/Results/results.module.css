@@ -1,0 +1,18 @@
+.results {
+	padding: 2% 0;
+}
+
+.results__title {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.results__descr {
+	margin-top: 10px;
+	text-align: center;
+}
+
+.results__buttonWrapper {
+	display: flex;
+	justify-content: space-around;
+}

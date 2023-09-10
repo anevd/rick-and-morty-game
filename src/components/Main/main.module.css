@@ -1,0 +1,26 @@
+.game {
+	padding: 2% 0 0 0;
+	margin-top: 30px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 500px;
+	border: 1px solid #f0f0f0;
+}
+
+.game__button {
+	width: 200px;
+	margin-bottom: 20px;
+}
+
+.buttons {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.game__button_guess {
+	width: 200px;
+	margin-bottom: 10px;
+}

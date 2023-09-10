@@ -1,0 +1,22 @@
+.answers {
+	padding: 2% 0;
+}
+.answers__title {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.answers__descr {
+	margin-top: 10px;
+	text-align: center;
+}
+
+.answers__wrapper {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.answers__noCards {
+	text-align: center;
+}

@@ -1,0 +1,17 @@
+.header {
+	height: 70px;
+	display: flex;
+	align-items: center;
+	background-color: #73a6ff;
+}
+
+.header__title {
+	color: #fff;
+	font-size: 20px;
+	font-weight: 500;
+}
+
+.header__descr {
+	margin-top: 5px;
+	color: #fff;
+}
